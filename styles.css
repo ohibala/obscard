@@ -1,0 +1,19 @@
+body{
+background-color: #CDE8F6;
+}
+
+
+hr{
+border-color: grey;
+border-style: dotted;
+width: 70%;
+
+}
+
+
+/* class selector */
+
+.table{
+  width: auto;
+  margin: 0 auto 0 auto;
+}
